@@ -1,2 +1,2 @@
 # python
-Mostly the implementation of data science algorithms
+Pytorch transfert learning.
